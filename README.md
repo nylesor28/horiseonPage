@@ -19,4 +19,4 @@ The purpose of this project is to refactor the logic found in repository <https:
 
 
 ## Final Product
-![Screen Print for Reference of Horiseon Page](assets\images\01-html-css-git-homework-demo.png)
+![Screen Print for Reference of Horiseon Page](/assets/images/01-html-css-git-homework-demo.png)
